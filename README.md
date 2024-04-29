@@ -1,5 +1,7 @@
 # SNHU-CS-320
 
+Evan Carter R4840
+
 - How can I ensure that my code, program, or software is functional and secure?
 Testing is a fundamental part of the development process, helping to ensure that our product is meeting the requirements set out before us. By creating a set of requirements that expects us to meet certain functionality and follow best practices for security, we give ourselves a guideline not only for development, but for testing as well. 
 
